@@ -29,8 +29,8 @@ ABOUT SECTION:
 BLOG SETION:
 ![Blog Section](https://github.com/user-attachments/assets/a8862bdf-73c4-4f8b-92bc-c2367db7dda1)
 
-FEATURED PRODUCTS
+FEATURED PRODUCTS:
 ![Featuresd products](https://github.com/user-attachments/assets/80a5576f-c0e2-4939-a0c7-b0f24b0671fc)
 
-CONTACT US :
+CONTACT US:
 ![Contact us](https://github.com/user-attachments/assets/b0efb637-dabc-4797-8aa3-2893029f53fd)
