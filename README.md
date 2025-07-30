@@ -54,6 +54,21 @@ open index.html  # or double-click index.html
 
 3. You can edit and customize product data directly in the HTML or via JavaScript arrays (if dynamic rendering is used).
 
+screenshots:
+HOME SECTION:
+![Home page ](https://github.com/user-attachments/assets/242f1d48-d017-47f2-9334-880fd723ce1b)
+
+ABOUT SECTION:
+![About](https://github.com/user-attachments/assets/3adbe481-e6c2-49bc-a3f2-ed4bba09f376)
+
+BLOG SETION:
+![Blog Section](https://github.com/user-attachments/assets/a8862bdf-73c4-4f8b-92bc-c2367db7dda1)
+
+FEATURED PRODUCTS:
+![Featuresd products](https://github.com/user-attachments/assets/80a5576f-c0e2-4939-a0c7-b0f24b0671fc)
+
+CONTACT US:
+![Contact us](https://github.com/user-attachments/assets/b0efb637-dabc-4797-8aa3-2893029f53fd)
 
 
 🧪 Future Improvements (Optional Ideas)
